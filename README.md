@@ -1,6 +1,3 @@
-Voici votre guide réécrit en Markdown :
-
-```markdown
 # Guide d'installation et d'intégration du projet
 
 ## 1. Installer PostgreSQL
@@ -79,7 +76,6 @@ export default function Home() {
         </div>
     );
 }
-```
 
 ### Intégration dans `add-book.js`
 ```javascript
@@ -113,4 +109,3 @@ export default function AddBook() {
         </form>
     );
 }
-```
