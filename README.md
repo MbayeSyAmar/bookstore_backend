@@ -76,6 +76,7 @@ export default function Home() {
         </div>
     );
 }
+```
 
 ### Intégration dans `add-book.js`
 
